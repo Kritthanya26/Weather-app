@@ -1,3 +1,3 @@
 ## 🚀 Live Demo
 
-[Live Demo](https://Kritthanya26.github.io/weather-app/)
+[Live Demo](https://Kritthanya26.github.io/Weather-app/)
